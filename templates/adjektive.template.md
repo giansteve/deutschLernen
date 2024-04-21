@@ -1,0 +1,12 @@
+> [!adjektive]
+> 
+
+**Beispiele**: 
+#flashcards 
+- 
+
+**Synonyme**: 
+
+
+
+

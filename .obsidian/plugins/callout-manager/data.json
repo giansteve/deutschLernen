@@ -1,0 +1,103 @@
+{
+  "callouts": {
+    "custom": [
+      "substantive",
+      "adjektive",
+      "verb",
+      "translation"
+    ],
+    "settings": {
+      "Verb": [
+        {
+          "changes": {
+            "icon": "lucide-activity"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "2, 122, 255"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "2, 122, 255"
+          }
+        }
+      ],
+      "Nomen": [
+        {
+          "changes": {
+            "icon": "lucide-person-standing"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "255, 0, 38"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "255, 0, 38"
+          }
+        }
+      ],
+      "Adjektive": [
+        {
+          "changes": {
+            "icon": "lucide-stars",
+            "color": "255, 102, 0"
+          }
+        }
+      ],
+      "substantive": [
+        {
+          "changes": {
+            "icon": "lucide-person-standing",
+            "color": "255, 0, 38"
+          }
+        }
+      ],
+      "adjektive": [
+        {
+          "changes": {
+            "icon": "lucide-stars",
+            "color": "255, 102, 0"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "changes": {
+            "icon": "lucide-activity"
+          }
+        }
+      ],
+      "translation": [
+        {
+          "changes": {
+            "icon": "lucide-languages",
+            "color": "10, 156, 7"
+          }
+        }
+      ]
+    }
+  },
+  "calloutDetection": {
+    "obsidianFallbackForced": false,
+    "obsidian": false,
+    "theme": true,
+    "snippet": true
+  }
+}
