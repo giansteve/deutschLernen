@@ -2,11 +2,11 @@
 > 
 
 > [!translation] Übersetzung
-> write here
+> in orario
 
 **Beispiele**: 
 #flashcards 
-- 
+- Ich muss zeitig am Flughafen sein::Devo essere all'aeroporto in tempo
 
 **Synonyme**: 
 

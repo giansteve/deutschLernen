@@ -3,7 +3,10 @@
 # C 
 # D
 # E
+## EI
 - [[einfallen]]
+- [[einvernehmlich]]
+## ER
 - [[erscheinen]]
 # F 
 # G 
@@ -27,6 +30,7 @@
 # x 
 # y 
 # z 
+- [[zeitig]]
 # ä 
 # ö 
 # ü 
