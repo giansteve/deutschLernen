@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Inhalt.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.5
+    "width": 239.5
   },
   "right": {
     "id": "ac48c646fef852e0",
@@ -157,13 +157,13 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "10131492f921c8a2",
+  "active": "f2d4b98188a6764f",
   "lastOpenFiles": [
-    "einvernehmlich.md",
+    "wörter/einvernehmlich.md",
     "templates/verben.template.md",
     "templates/adjektive.template.md",
     "templates/substantive.template.md",
-    "zeitig.md",
+    "wörter/zeitig.md",
     "Inhalt.md",
     "wörter/einfallen.md",
     "wörter/plaudern.md",
