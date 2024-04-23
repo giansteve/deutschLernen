@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Inhalt.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.5
+    "width": 239.5,
+    "collapsed": true
   },
   "right": {
     "id": "ac48c646fef852e0",
@@ -157,14 +158,19 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "f2d4b98188a6764f",
+  "active": "10131492f921c8a2",
   "lastOpenFiles": [
-    "wörter/einvernehmlich.md",
+    "unterschlüpfen.md",
+    "Inhalt.md",
+    "ticken.md",
+    "einwenden.md",
     "templates/verben.template.md",
     "templates/adjektive.template.md",
     "templates/substantive.template.md",
+    "fortfahren.md",
+    "bloß.md",
+    "wörter/einvernehmlich.md",
     "wörter/zeitig.md",
-    "Inhalt.md",
     "wörter/einfallen.md",
     "wörter/plaudern.md",
     "wörter/erscheinen.md",

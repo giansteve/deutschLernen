@@ -4,7 +4,8 @@
       "substantive",
       "adjektive",
       "verb",
-      "translation"
+      "translation",
+      "use"
     ],
     "settings": {
       "Verb": [
@@ -89,6 +90,14 @@
           "changes": {
             "icon": "lucide-languages",
             "color": "10, 156, 7"
+          }
+        }
+      ],
+      "use": [
+        {
+          "changes": {
+            "icon": "lucide-hammer",
+            "color": "221, 8, 204"
           }
         }
       ]

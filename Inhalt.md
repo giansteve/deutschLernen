@@ -1,37 +1,41 @@
 # A 
 # B 
+[[bloß]]
 # C 
 # D
 # E
 ## EI
-- [[einfallen]]
-- [[einvernehmlich]]
+[[einfallen]] - [[einvernehmlich]] - [[einwenden]]
 ## ER
-- [[erscheinen]]
+[[erscheinen]]
 # F 
+[[fortfahren]]
 # G 
 # H 
+[[heiter]]
 # I 
-# j 
-# k 
-# l 
-# m 
-# n 
-# o 
+# J 
+# K
+# L
+# M
+# N
+# O
 # P 
 [[plaudern]]
-# q 
-# r 
-# s 
-# t 
-# u 
-# v 
-# w 
-# x 
-# y 
-# z 
-- [[zeitig]]
-# ä 
-# ö 
-# ü 
+# Q
+# R
+# S
+# T
+[[ticken]]
+# U
+[[unberechenbar]] - [[unterschlüpfen]]
+# V
+# W
+# X
+# Y
+# Z
+[[zeitig]]
+# Ä
+# Ö
+# Ü
 # ß
