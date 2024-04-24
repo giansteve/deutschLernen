@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Inhalt.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -139,12 +139,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 339.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,10 +157,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "10131492f921c8a2",
+  "active": "e151179268074c12",
   "lastOpenFiles": [
-    "unterschlüpfen.md",
     "Inhalt.md",
+    "unterschlüpfen.md",
     "ticken.md",
     "einwenden.md",
     "templates/verben.template.md",

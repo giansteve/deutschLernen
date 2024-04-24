@@ -13,7 +13,7 @@
 - Dagegen lässt sich nichts einwenden::Questo non si può obiettare
 <!--SR:!2024-04-27,4,270-->
 - "Ich will dir nicht zur Last fallen", **wandte** ich **ein**::"Non voglio essere un peso", **obiettai**
-<!--SR:!2024-04-24,1,230-->
+<!--SR:!2024-04-26,2,230-->
 
 **(-s Synonym) Synonyme**: 
 
